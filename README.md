@@ -17,6 +17,6 @@
    </div>
    <div class="user.css">
      <h3>👉 Then 
-        <a href="https://github.com/blyad2137/pcgamingwiki-dark-theme/raw/main/dark-theme.user.css" style="font-size: 2rem;"> install the user.css</a></h3>
+        <a href="https://github.com/blyad2137/pcgamingwiki-dark-theme/raw/main/pcgamingwiki-dark-theme.user.css" style="font-size: 2rem;"> install the user.css</a></h3>
    </div>
 </div>
