@@ -37,6 +37,9 @@
 		background-color: #313235;
 		color: #ccc;
 	}
+	#site-notice {
+		background-color: #794300;
+	}
 	#main-content, .page-Home div#body-content input[type="search"], .page-Home .home-subheader{
 		background-color: #222;
 	}
